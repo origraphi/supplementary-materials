@@ -1,0 +1,96 @@
+P_4.20261007
+Transcribed with noScribe vers. 0.7
+(Language: German (de) | Speaker detection: 2 | Overlapping speech: 1 | Timestamps: 1 | Disfluencies: 1 | Mark pause: 1)
+(.) 
+S01: [00:00:01] Then I wish you a lot of fun. (.)
+S00: [00:04] What is, what do I do? You can start exploring now. Just kind of like me... Exactly. Funny, but not that.
+S01: [00:00:11] No, correct.
+S00: [00:00:12] The first three.
+S01: [00:00:13] Exactly.
+S00: [00:00:13] Okay, okay. Ehm, yes, where do I start? You have already shown me everything. I know there are three tabs.
+S01: [00:00:30] Exactly. So let's say it, let's start with a record.
+S00: [00:00:33] Yes.
+S01: [00:00:34] And then, you can, so again, you can talk about it, so for example you couldn't talk about how you don't like certain interactions or what you would like. Ahm, as you explore the dataset, maybe you notice, ah, it would have been good if that and that had been the case or whatever.
+S00: [00:00:50] Mhm, so you want some kind of feedback on the thing. Okay. (.......) These buttons, with which you can knock things up and, they have such a pointer cursor, that's good. Then you understand that they are interactive. (...) The node labels do not have a pointer cursor, then you understand that they are not clickable, is also good. (...) Intuit, I have never seen the buttons up here before. (.) At first glance, I would have no idea what they will do if I try them, yes, if I try them, both those who collapse the Edges or the Edge Groups, and those who collapse the Node Groups. (.) Then I understand it, so if I try it once, then I have learned what it is and, yes, then, yes. (...) [00:01:54] I think I'm also used to that if there are two states between which I can switch back and forth, that I'm going over the same, I increasingly click on the same button now because I...
+S01: [00:02:05] A toggle is expecting.
+S00: [00:02:06] Exactly. Ehm, but not, I think, learn. Yes. (...) Up here there are also three states. Okay, so I only came to mind, they don't scream at me with A, here you can collapse. (.) But the symbolism is then also reflected in the, hm, Edge Group Headings. (.) I think that's good. Here also. Yes, okay, the longer I look at it, the more convenient I get with what these buttons look like. (.) And I like the highlighting of the nodes and edges. So this filtering that I can look at, okay, and, ah, hang on this node these edges. And that I get a lot, so I get an overview very quickly, ingam, that I wouldn't have without that. [00:03:11] Yeah, and if I'm interested in Engineer Seven now, what's the kind of Social Connections? Yes, I couldn't do that without that. That would be almost impossible to go in there now and, him, to pick. Yes. Yes. (.....) When I walk over so quickly, it flickers a little.
+S01: [00:03:37] Mhm. So could you imagine the bouncers like that? (...)
+S00: [00:03:44] Maybe I would have to see. So, I think I can. Perhaps, no idea. He, personally, doesn't bother me great now that it's a bit flickering. Heikh, but maybe others. (.) I would expect the Edges to be clickable and then what happens. Okay. What would you expect? Maybe information about the Edge, if there are any properties on it or something.
+S01: [00:04:26] Mhm. (.)
+S00: [00:04:28] The nodes maybe too. Yes. But maybe I would expect there to be more information to discover. (.) And then, because there are no labels for the Edges, then I would think, oh, maybe if I click on it, something happens.
+S01: [00:04:46] Mhm. (......)
+S00: [00:04:52] Maybe I would be up here at the, um, Group Headers, if I fold them, maybe I would expect that Aggregates or something like that. //S00: Ah, okay.// 20 Edges or something.
+S01: [00:05:05] Mhm. (......)
+S00: [00:05:12] All together. (........) Yes, I, without thinking very closely into this use case and thinking about how that would be if I, I no idea, were to sit in HR and were very important to me to get an overview of who with whom and back and forth and stuff. Hem, but I can imagine that these different, so that one can look at the same sentence in different granularitys and this aggregation can be fully meaningful to make it somehow digestible.
+S01: [00:05:52] Yes. But if you can also put yourself in the role of an HR person, you should use that word. So you can also talk about the dataset itself and also analyze it if you want it. (........)
+S00: [00:06:13] Well, if I had visualized that, if someone had already visualized me and I would look at it for the first time, I think, then my attention would wander to the nodes that simply have a lot of edges. //S01: Mhm.// So for example, here is the lead engineer. Mhm. (.) I would immediately notice something like that. I would also notice that when it is folded, when it is folded up here. (12 seconds pause) Then I think, around to explore the record a bit, then I find the version, so I think the state that when I see the first time, everything is opened, it makes sense for me. //S01: Mhm. (.)// Otherwise in other visualizations you often start a bit of a high level and give possibilities for a drill there. (.) [00:07:19] Mhm. Now, oh, I only think loudly, but maybe it is actually good, because the record is reasonably manageable. //S01: Mhm.// The, the trading network record is even bigger, because it seemed a bit overwhelming. So then I would notice, oh, but the lead engineer has something to do and I don't see that at a glance. (...) To call the time and speak, no idea. Ehm, so the sorting also helps, because otherwise that would, otherwise I could not recognize it so quickly. Well, that announced with the record. Yes. Otherwise, additional highlighting would be needed. If it weren't for sorting and I, had to, maybe that I would also like to see at a glance that the lead engineer has so much to do and work with so many people, then that might need an additional highlighting, to highlight that somehow, but so, um, yes, the presentation makes me very quickly see where something is concentrated.
+S01: [00:08:22] Mhm. Yes, or what is that, social. The director has a lot of social connections.
+S00: [00:08:30] Okay. Are you all private? Yes. (14 seconds pause) Based on the reporting I can then also carry out the company structures a bit. (.) All team leads have somehow to deal with the director. What are these managers doing? There may be something like one, the highlighting helps, then I can try to understand what Manager A is doing and I realize, okay, that's kind of, has to do with the engineers. Maybe that's just the engineer lead, that's actually, still superior and Manager B has somehow to do with the researchers. The sales team is only subordinate to the director, okay. (.........) [00:09:41] When I close again, I see a bit like the groups doing to each other what they have to do with each other or not. (......) Then I see here that the management is very involved, very socially involved. (.) Oh, real? (.)
+S01: [00:10:15] This is found an Unintended Behavior.
+S00: [00:10:20] Okay. (.) Well, if I fold everything, everything, everything, everything, I can do that here too. (.)
+S01: [00:10:30] So. (...)
+S00: [00:10:33] Okay, if I fold everything, everything, then I can't read anything out here. (.)
+S01: [00:10:39] Good. (.) //S00: And here I'm doing it again. Okay. (.)// Yes, you don't have to deal with a record anymore. //S00: We can go on now.//
+S00: [00:10:46] Okay, then let's move on to the Logistics Network. (.)
+S01: [00:10:54] That was just this bug that was really in this teespan.
+S00: [00:10:59] That's for me, so this concept of this ego network and I sort out how the adjacent ones are, I think, is a bit for me... (...)
+S01: [00:11:15] Exactly because of the...
+S00: [00:11:16] I compare it to the others. (.) So here it is somehow fully tangible for me. (.) I can somehow relate to the domain. I immediately understand what it is about and I understand directly what these edges mean and how they relate to each other. And with this ego network I have the feeling I need a little longer to cognitively understand at the moment. What do the Edges now mean again? (...) Or this sorting or these numbers above. It's a little bit more abstract for me.
+S01: [00:11:51] Understand. Yes.
+S00: [00:11:53] (.)
+S01: [00:11:55] And does that have to do with the visualization or with the dataset? (......)
+S00: [00:12:04] Consider. I haven't really looked at the record yet. (.) So here is some kind of Global Center, okay, and then... (.) From there it goes... (...) Okay, so they're all some shipments or something, okay. (14 seconds pause) Yes, getting the mental map so clearly for it, I like a little bit more difficult. More difficult. So they are grouped by... These are the immediate neighbours.
+S01: [00:12:51] Mhm.
+S00: [00:12:52] It's going from here to there in one step, okay. And then within... (...) All starting from here. (........)
+S01: [00:13:10] Yeah, okay. (.)
+S00: [00:13:12] And then I can... Can I understand how the...
+S01: [00:13:17] That's correct. ...How the goods come from... I have the feeling this type of visualization is very focused on, so has the focus
+S00: [00:13:29] on this thing. //S00: Mhm.//
+S01: [00:13:30] Everything about this global center, how it goes from there. (.) Okay. Yes, okay. Well.
+S00: [00:13:50] Ehm, yes, I think I have to think a little bit more, but that makes sense and the sorting makes sense and that the sorting makes sense and that this yellow and turquoise and pink are always just connections within the group and the in between and stuff.
+S01: [00:14:07] And then I notice especially those, where many, where a node very many
+S00: [00:14:18] Endos has. Yes, so also there will be my attention there I think very quickly on this group
+S01: [00:14:24] specially drawn. Yes I feel the need for something to happen. //S00: Exactly.// So, for example, what should definitely happen is that such a performance gives to others, it is really grayed out. So if she...
+S00: [00:14:35] Yes, and then at such a logistics network it's...
+S01: [00:14:39] They are graying.
+S00: [00:14:41] When I imagine the goods are going like this and maybe they will be here, no idea, they will arrive here or will be produced or does not matter. The journey starts a bit here at the Global Center and then it goes on from one to the next. (.) So she arrives somewhere and then goes on. (.) That's right. (.) Ehm, and now, if I think about that here now, for example... (.) Okay, then she comes here from the Global Center and then she sipped onto many different ones. (.) //S00: Do I read that correctly? (..)//
+S01: [00:15:21] Here...
+S00: [00:15:22] This HUB gets goods from the Global Center and then tips it on to these three and another eight. (...) Okay. (.) Example of here. Oh. (.) I would ask myself, here's what we are doing... Come on, continue? What happens to the Trucking Fleet? (.)
+S01: [00:15:44] She's certainly starting somewhere.
+S00: [00:15:46] Where do the goods go? //S01: Mhm. (..)// So in my... (.) I would somehow expect the nodes to hit all incoming and somehow outgoing edges until the stops get somewhere. Yes. (.)
+S01: [00:16:01] If you haverest on a support, a... All K-Apps are... (.) So the sub-sheet. //S00: Okay.// And the sub-sheet. Make it happen again. And then you know, okay, me on that... (.) Don't listen. Only when I get there... Exactly. And then it should do that, because... I would say if I have the port, what... Maybe we can all highlight the port. //S00: Yes.// You know, they somehow hang... This...
+S00: [00:16:31] The domain, this example is perhaps a bit too abstract for me to be able to think in so well now and think about what would the benefit be, somehow look at the hyper-Edges and what would I as a Logistics operator or something else read out. I think either I'm too far away anyway, so from what I otherwise do, or... Or maybe this is a bit too... too abstract or... //S01: Yes. (.) //S00: Okay, but we can try that here.//
+S00: [00:17:02] I'm going to the Trading Network now. (.....)
+S01: [00:17:08] He...
+S00: [00:17:09] Yes, that's much larger than the other two records and somehow very much. //S01: Mhm.// And maybe... (.) So that feels a bit... (...) This is so much information at once that I don't really get stuck anywhere. //S01: Mhm.// So I see that rather as... As so as an image and see, okay, many different colors and a lot of text. That's what I perceive at the first moment. And compared to the Company Network, it's easier for me to go in and understand, okay, and what are the nodes and what are the Edges, but this is a bit too much for me to digest that. //S01: Mhm.//
+S01: [00:17:53] So in case of doubt, here in the plain below, where this... (.)
+S00: [00:18:00] Trading Network. (.)
+S01: [00:18:02] Okay.
+S00: [00:18:03] The nodes have on labels. (10 seconds pause) And there I am not sure what that... what they are. Whether these are company or any... (...) It bin fund or... (.) It’s called Trading Network, so I’d think the money. And maybe then, erm, Edges are any cash flows. You also said at the beginning, they are not directed, these Edges.
+S01: [00:18:42] Mhm. (.)
+S00: [00:18:45] There could also be a kind of cooperation... In doing so, I don't know exactly what the dataset is. (.) Now look at an edge, then connect the two. (15 seconds pause) //S00: Yes, and there are no group links here. (...)//
+S01: [00:19:19] Right, yes. That must be understood. (...) So, the whole day... Yes, that's such a classic problem, I think. (.)
+S00: [00:19:28] What's... (.)
+S01: [00:19:31] There are also edge groups, so I know they are just numbered.
+S00: [00:19:38] Did you explain to me? //S01: days, yes.// days, right. Ah, okay. Business on Day 1, Day 2, Day 3, Okay. (...)
+S01: [00:19:48] Yes, what I then... (.)
+S00: [00:19:52] What I can read is a bit... So, as I said, I don't know what this is all about. Let's just say some cash flow, then, ify, I see a bit of the volume. //S01: Day 6 was very quiet. //S00: Day 5 was very busy. (.)//
+S01: [00:20:08] Mhm. (.) Have you come to these bankruptcies already?
+S00: [00:20:12] The density of... //S01: Okay.// Or the number of... Yes, how, how, oh... Yes, the number of edges in principle, how wide the...
+S01: [00:20:21] Yes, exactly. //S00: Okay, mhm. (...) Yes.// Okay, and then that's sorted, means the ones up here we have the most and here below. (.) //S00: Okay. (18 seconds pause)//
+S00: [00:20:54] Is the... (.)
+S01: [00:20:59] All?
+S00: [00:21:00] Not so good on the Hyperedges.
+S01: [00:21:03] Mhm. (.)
+S00: [00:21:05] This is just because the record is so large.
+S01: [00:21:07] Yes. (15 seconds pause) Yes, and when I collapse now, I am thinking about what I can see, which I may not
+S00: [00:21:31] when it expands. (......) Now, when I collapse the Edge Groups, it's much down a lot.
+S01: [00:21:47] Mhm. (......)
+S00: [00:21:52] But then I can't read that much. (.) So straight, I can't imagine why I would prefer this view.
+S01: [00:22:01] Mhm. (...) In this concrete example. //S01: Yes. (.......)//
+S00: [00:22:14] But this one, ah, of course, could. This, in turn, if I close what I am not interested in and what interests me, open up, helps this, helps enormously in the case. //S01: Because now... (..)// If I can here, or even something like that, all of a sudden I can see them all, I can see it much better.
+S01: [00:22:32] Yes. //S00: Okay. (.)//
+S00: [00:22:35] Then I'll take a look at Day 1, what happened. //S01: The trails or whatever.//
+S01: [00:22:40] If it's so pointed here. (.) Yes, if the Edge need here zack. (.) Very obviously not when angles rise or since somehow now... //S00: Okay.// This is such an artifact, because the angle here is much flatter. And when it gets pointed, then the width of the line is not harder. Okay. (.) Yes. (...)
+S00: [00:23:09] Yes. I don't have anything more. Okay, cool.
+S01: [00:23:12] Then I stop recordering. Okay. //S00: On doctoratje!// Celebration semen first made since 17 i'im proceso, plants, plants, plants, etc... For that. So, we always believe, no. So, I sure feel what is here today.-

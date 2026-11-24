@@ -1,0 +1,17 @@
+\begin{table}[t]
+    \centering
+    \caption{Primary test per hypothesis. TOST: mean difference with 90\% CI; equivalence is shown if
+    the CI lies within the margin. Mann-Whitney $U$: Hodges-Lehmann estimate with 95\% CI.}
+    \label{tab:results}
+    \footnotesize
+    \setlength{\tabcolsep}{4pt}
+    \begin{tabular}{@{}lllll@{}}
+        \toprule
+             & Measure & Difference [CI] & $p$ & $H_{0,i}$ \\
+        \midrule
+        \hyp{H1} & Accuracy & $-1.5$ [$-9.4$, $6.5$] pts, $\pm5$ & .231 & not rejected \\
+        \hyp{H2} & RTLX & $-2.4$ [$-9.3$, $4.6$] pts, $\pm10$ & .036 & rejected \\
+        \hyp{H3} & RT, \task{T2} & $-12.7$ [$-23.7$, $-1.2$]\,s & .014 & rejected \\
+        \bottomrule
+    \end{tabular}
+\end{table}

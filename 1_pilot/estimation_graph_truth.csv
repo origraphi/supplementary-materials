@@ -1,0 +1,10 @@
+graph_file,n_nodes,n_edges,source_path
+grafo1252.30.json,30,34,data/selected-rome-data/estimation/grafo1252.30.json
+grafo1334.30.json,30,39,data/selected-rome-data/estimation/grafo1334.30.json
+grafo1690.20.json,20,24,data/selected-rome-data/estimation/grafo1690.20.json
+grafo1761.20.json,20,26,data/selected-rome-data/estimation/grafo1761.20.json
+grafo2056.20.json,20,22,data/selected-rome-data/estimation/grafo2056.20.json
+grafo4040.30.json,30,36,data/selected-rome-data/estimation/grafo4040.30.json
+grafo6178.40.json,40,49,data/selected-rome-data/estimation/grafo6178.40.json
+grafo6207.40.json,40,52,data/selected-rome-data/estimation/grafo6207.40.json
+grafo6976.40.json,40,55,data/selected-rome-data/estimation/grafo6976.40.json

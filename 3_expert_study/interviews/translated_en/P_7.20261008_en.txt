@@ -1,0 +1,54 @@
+P_7.20261008
+Transcribed with noScribe vers. 0.7
+(Language: German (de) | Speaker detection: 2 | Overlapping speech: 1 | Timestamps: 1 | Disfluencies: 1 | Mark pause: 1)
+(.) 
+S00: [00:00:01] And then you can start. (.)
+S01: [00:00:04] What my goal?
+S00: [00:00:05] Eh, there is no goal in that sense. So it really is, it really is in the sense of, hm, it is Free Exploration.
+S01: [00:00:12] Mhm. He, so if you could talk about the dataset itself, what you notice, you could talk about the visualization system, about features you lack,
+S00: [00:00:22] Behaviour that you notice, bugs, all kinds of things. (......)
+S01: [00:00:32] Okay, and I'll start with another one. (.....)
+S00: [00:40] Uhm, okay. (.)
+S01: [00:00:45] Okay, so if I have understood it right now, the whole thing is now the hierarchical structure of distribution counters, right? The almost good, from a large camp somehow always regional then, ear, are distributed. (...)
+S00: [00:01:05] I don't know, [name redacted], that we have something there, um, nested graph or something.
+S01: [00:01:11] I find this graph collapse pretty cool indeed. So if you, ewy, I see that too, and I immediately noticed that //S00: you can do it that way. (....)// Exactly. That's somehow a bit, that's not really a tree, and that's very important. Exactly, of course. So. So, then it is there again a cheese.
+S00: [00:01:33] Exactly, so the beneficial interpreter knows, okay, the cover notes always goes from the top to the move. And that has a bit of it, that my thought, um, how much we are there with, so how much we then look at the animable (..) //S01: Printing the layout, i.e. as targets?//
+S01: [00:01:48] Okay, but I just felt the need to open it up again to take a closer look, but actually that's the same information. //S00: Yes, interesting. (.) //S01: Uhm, okay, if I want to track now, ah how a product comes to my Returns Processing Unit, (.......)//
+S01: [00:02:26] then I would have to look a bit at how I can get a path.
+S00: [00:02:29] That means, the question is whether we will then become high-level rapping, because we actually have a bit of low-level one-off parts of these things... //S01: I can't sort of say here now, okay, I would like to have a path from there to there. (...)// So I would have to really look here now, that I hang myself in the area,
+S01: [00:02:47] Highlighter and then I can look, okay, that comes now either from Hazardous Material Depot or from a Local Distribution Point City. //S01: Mhm, mhm, mhm, and then I come from the... (...)// ... I come, exactly, from either Air Cargo Hub A or Customs Clearing Zone. And I think he's going to everyone anyway, exactly.
+S00: [00:03:15] Yes, that means I would then be making custom clearing zone, going to Cassiders and then I'll get down here. (.) Exactly. (.) Yes, the Merchandide and files on the website. Exactly, and there we copy the demo data and drive this one set of pictures. //S01: actually when I highlight this edge, this half collapsed, also gets highlighted.//
+S01: [00:03:48] Is this an implementation thing? //S00: Yes, okay, that's transparentness, oh, okay, get along. (.)// Yes, that's a bit confusing in any case, because then I'll ask myself, yes, why that's also highlighted. (.)
+S00: [00:04:06] Yes, the astro picture makes that actually smart, ah, the other pictures are already creating it, yes, automatically. Boah, um, that's so good, you can't really do it, because we all do, but there's definitely...
+S01: [00:04:27] Uhm, exactly, so, I'm supposed to explain my thoughts, I'm just looking at what I see here. (.) Exactly, I have a lot of companies here. (.)
+S00: [00:04:36] And that, I just want to work very hard with the scope, exactly. And now sees, ah, where the non-collapsed state is very important, quasi to see, even a look, where is a lot of miracle. (...) //S01: Ehm, because I can see now, for example, okay, this luminar, it's relatively...//
+S01: [00:05:05] a lot, so, there's a lot of trade volume, if I see that, because I have these horizontal latitudes up here relatively often.
+S00: [00:05:14] Likewise the one here, ah, where these nodes are sorted by degree anyway, gell.
+S01: [00:05:21] That's what's high up, I see the information here. (.)
+S00: [00:05:28] But he doesn't have that much now. (...) //S01: Yes, yes, yes, that's already... Yeah, I mean, this one is the little bit at the end, I guess, okay, that's kind of... That means that are...//
+S01: [00:05:41] There are two companies that do a lot. (.) And... many companies that... (.) //S01: Mainly with these two then... (.) Make trades. (.) Yes.//
+S00: [00:05:56] Yes. Yes. (.) //S01: You can also see that... (..)// the... //S01: ...oh, oh, oh, they seem to be answering us relatively constantly in the evening, I would say.//
+S01: [00:06:06] On the first day it's a little less. ... (.)
+S00: [00:06:10] ... ... (...) //S01: ... ... ... ...// ... ... (33 seconds pause) ... //S01: ...// ... (22 seconds pause)
+S01: [00:07:13] I find the icons a bit difficult to understand. (.) So it makes sense when I think about it a little bit. But for example, it was not clear to me now, äh, which, that is, that is, that is, that is, it is virtually open,
+S00: [00:07:34] and here's, ah, ah, I can't, er, knot and edge, that just resets everything, or I can't reset that separately. But what would you want now?
+S01: [00:07:50] I, that's what I would have intuitively expected now to be there, er, so especially if I kollapsed a few knots here now, but then my edge collapse state somehow doesn't, what I want to reset, then I would be a little annoyed if I would collapse my edges again, er, collapse.
+S00: [00:08:08] Yes, but maybe, yes, just send two, just two, how this is just an advantage, (...) and then don't stop here in the website link, or once that, once that, once that. (.)
+S01: [00:08:25] Not at all, what else for information you want... So I mean, of course, if I had to answer now, of course, er, concrete individual questions, such as, no idea how many times, er, Tessier and, I do not know (.) Coruscant Trade Center, erm, something done together, then I can answer that relatively easily, and say, well, okay, I highlight my knot here. (.) It's good if I could actually fix that, then that I can follow it with the mouse a bit. Hem, then I could say here relatively, okay, well, I have this one edge here now, and that was on day 4. (.)
+S00: [00:09:11] Uhm, otherwise there's nix, and I could also, well, yes, see here that someone makes everything possible and stuff like that. (...)
+S01: [00:09:21] I watch, these are three differences. (.........) And since I asked directly earlier, in which direction is reporting taking? (...) Does Director report on Manager or Manager to Director? I guess Manager reports by Director. But that's just because I have a domain knowledge. (...) Ehm, exactly, social is mine, that's not necessarily a directed edge anyway, and collaboration, but when it comes to reporting, I would say that's more of a direct reason, which I'm missing here a bit now. (16 seconds pause)
+S00: [00:10:24] And if you look at it, if I look at it, that's actually, probably, //S01: so we once have the animation part for it, that's some judgment, I would appreciate,// and that's just without animation, that's actually what we've broken now. //S01: That really looks like in the end. Manager A seems more engineering. (.)//
+S01: [00:10:45] Manager B seems to have more to do with research and sales. (.) However, with research rather on a professional level, while, //S00: but at, ne, ne, ne, I've got collaboration and, (.) interesting that the one that now also collaborates with the sales lead,//
+S00: [00:11:14] but with the, but with research, so with reports to the,
+S01: [00:11:22] and funnily enough not the senior researcher, but the little researchers.
+S00: [00:11:28] in the first pass area. Interesting. (.) //S01: Exactly, that's just here. But, yes, Animal Graph change,// the manager A, (.) the, (..) //S01: in the end, it's all about it all, I'm suffering. (...) Uhm, (....)//
+S01: [00:11:52], but is somehow friends with the other leads, and interestingly reports Report Variability's Leads, they all report directly to the director.
+S00: [00:12:07] Exactly, okay, well, but that's really simple, basically that's what, the movie animations, we have meaning, er, that's an interesting structure. Just that, here,
+S01: [00:12:17] one now makes two researchers, the other two engineers, (..) //S01: and the other, two engineers, sales, (....) is only,//
+S00: [00:12:28] even though it's super easy, //S01: below itself reportet.//
+S01: [00:12:32] Okay, so if I want to find out now, (.) who depends with whom, then (...) because a bit, (..) interestingly, the director is, with somehow so a bit like that, who is at the socialize, (..) is a cool director. Yes. (...) But otherwise I see (.......) I find everyone a bit together. So, in the Autology View, or in the post, //S00: or?// And Cross Team is actually little collaboration here. (.......) Ah, okay. (16 seconds pause) [00:13:37] That's no problem at all, //S00: which you can't solve, but basically,// if I click on it, I get a layout shift every time, and I can't click on it second time. //S01: well, I mean, that would be natural now, that would be really, but I'm afraid that's a problem that can't be solved.//
+S00: [00:13:51] Okay, it's not now with the movement of nodes elsewhere, (....) technically, nothing keeps you off. //S01: There is already a lot between engineering and sales (..) Socialized.// then a Filtered Graph Wrapper. But in the end, I think, I still stick a bit //S01: also that it's related things, of course//. Because often you want, often you want things too, (..) somehow stands there. (.)
+S01: [00:14:25] I see, so to speak, (..) I see how, (...) well, the iron dots in the curse are then always only within the department. (.) //S00: Exactly, clearly. But, (..)// which also fell to order. Exactly, I mean, that's really such a thing, it's just kind of, (.)
+S00: [00:14:48] yes, it's already very interlocking. And management. Sure, for really this fade, in effect, it can also build, //S01: rexpand, no idea,// that's all possible. (.) //S00: But, (..)// that will, (....) yes, exactly. (.........) Yes, (..) doesn't have to force yourself to bring more time, //S01: until here nothing than you want. (..)// Either you say you're doing this somehow now, //S01: this little one, you think mine, without having a concrete goal now,//
+S01: [00:15:25] then I would say my exploration is complete.
+S00: [00:15:29] Of course you can do that. Or, as is the case with the Tollity View or the Launched Graph. //S01: Thank you very much.// And that would be helpful, because that has

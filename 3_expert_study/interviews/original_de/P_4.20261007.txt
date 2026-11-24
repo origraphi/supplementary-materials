@@ -1,0 +1,96 @@
+P_4.20261007
+Transcribed with noScribe vers. 0.7
+(Language: German (de) | Speaker detection: 2 | Overlapping speech: 1 | Timestamps: 1 | Disfluencies: 1 | Mark pause: 1)
+(..) 
+S01: [00:00:01] Dann wünsche ich dir viel Spaß. (.)
+S00: [00:00:04] Was ist, was mache ich? Du kannst jetzt anfangen zu exploren. Einfach irgendwie, wie ich... Genau. Lustig, aber den nicht.
+S01: [00:00:11] Nee, korrekt.
+S00: [00:00:12] Die ersten drei.
+S01: [00:00:13] Genau.
+S00: [00:00:13] Okay, okay. Ähm, ja, wo fange ich an? Du hast mir ja alles schon gezeigt. Ich weiß, es gibt diese drei Tabs.
+S01: [00:00:30] Genau. Also ich sag's mal so, lass uns mal bei einem Datensatz anfangen.
+S00: [00:00:33] Ja.
+S01: [00:00:34] Und dann, du kannst, also nochmal, du kannst dich über, also du könntest zum Beispiel darüber sprechen, wie dir gewisse Interactions nicht gefallen oder wie du, was du gerne hättest. Ähm, as you explore the dataset, vielleicht fällt dir auf, ah, es wäre gut gewesen, wenn das und das der Fall gewesen oder sonst was.
+S00: [00:00:50] Mhm, also du willst wie eine Art Feedback zu dem Ding. Okay. (.......) Diese Buttons, mit denen man Dinge auf und zu kloppen kann, die haben so einen Pointer Cursor, das ist gut. Dann versteht man, dass die interaktiv sind. (...) Die Node Labels haben keinen Pointer Cursor, dann versteht man, dass die nicht klickbar sind, ist auch gut. (...) Intuit, die Buttons hier oben habe ich so noch nie gesehen. (..) Auf den ersten Blick hätte ich keine Ahnung, was sie tun, wenn ich sie, ja, wenn ich die ausprobiere, also sowohl die, die die Edges oder die Edge Groups kollabieren, als auch die, die die Node Groups kollabieren. (.) Dann verstehe ich es schon, also wenn ich es einmal ausprobiere, dann habe ich es gelernt, was das ist und, ja, dann, ja. (...) [00:01:54] Ich glaube, gewohnt bin ich auch, dass, wenn es zwei Zustände gibt, zwischen denen ich hin und her schalten kann, dass ich es über den gleichen, ich klicke immer öfter jetzt auf den gleichen Button, weil ich...
+S01: [00:02:05] Ein Toggle erwartest.
+S00: [00:02:06] Genau. Ähm, aber das nicht, glaube ich, lernen. Ja. (...) Hier oben sind es ja auch drei Zustände. Okay, also da kam ich nur so in den Sinn, die schreien mich jetzt nicht an mit A, hier kann man kollabieren. (..) Aber die Symbolik spiegelt sich ja dann hier auch in den, ähm, Edge Group Headings wieder. (.) Das finde ich gut. Hier auch. Ja, okay, je länger ich es anschaue, desto bequemer werde ich damit, wie diese Buttons da aussehen. (....) Und das Highlighting von den Nodes und Edges finde ich gut. Also dieses Filtering, dass ich mir angucken kann, okay, und, äh, an dieser Node hängen diese Edges. Und dass ich sehr, damit bekomme ich sehr schnell einen Überblick, ähm, den ich ohne das nicht hätte. [00:03:11] Ja, und wenn mich jetzt interessiert Engineer Seven, was hat der so für Social Connections? Ja, das könnte ich ohne das nämlich nicht. Das wäre fast unmöglich, da jetzt irgendwie rein zu gehen und, ähm, auszusuchen. Ja. Ja. (.....) Wenn ich so zügig drüber gehe, flimmert es ein bisschen.
+S01: [00:03:37] Mhm. Also könntest du dir dann die Bouncer so vorstellen? (...)
+S00: [00:03:44] Vielleicht müsste ich sehen. So haben, glaube ich, kann ich so. Vielleicht, keine Ahnung. Ähm, stört mich persönlich jetzt nicht super, dass das so ein bisschen flimmert. Ähm, aber vielleicht andere. (....) Ich würde erwarten, dass die Edges klickbar sind und dass dann was passiert. Okay. Was würdest du erwarten? Vielleicht Infos zu der Edge, falls es die denn gibt, als auf der noch irgendwelche Properties sind oder so.
+S01: [00:04:26] Mhm. (..)
+S00: [00:04:28] Den Nodes vielleicht auch. Ja. Aber vielleicht würde ich erwarten, dass es da noch mehr Infos zu entdecken gibt. (.) Und dann, weil hier auch keine Labels sind für die Edges, dann würde ich denken, oh, vielleicht wenn ich da draufklicke, passiert noch was.
+S01: [00:04:46] Mhm. (......)
+S00: [00:04:52] Vielleicht würde ich hier oben bei den, ähm, Group Headers, wenn ich die zusammenklappe, vielleicht würde ich da auch so Aggregates erwarten oder so. //S00: Ah, okay.// 20 Edges oder so.
+S01: [00:05:05] Mhm. (......)
+S00: [00:05:12] Alles zusammen. (........) Ja, ich, ohne mich jetzt da super krass in diesen Use Case reinzudenken und zu überlegen, wie das denn wäre, wenn ich, keine Ahnung, im HR sitzen würde und mir voll wichtig wäre, einen Überblick zu bekommen, wer mit wem und hin und her und so. Ähm, aber ich kann mir vorstellen, dass diese verschiedenen, also, dass man auf den gleichen Satz in verschiedenen Granularitäten blicken kann und diese Aggregierung voll sinnvoll sein kann, um es irgendwie digestible zu machen.
+S01: [00:05:52] Ja. Kannst dich aber auch in die Rolle eines HR-Persons reinversetzen, solltest du dieses Wort. Also du kannst auch über den Datensatz selber sprechen und ihn auch analysieren, wenn du es willst. (........)
+S00: [00:06:13] Gut, wenn ich das zum, wenn mir das also schon jemand visualisiert hätte und ich da irgendwie so das erste Mal drauf gucke, ich glaube, dann würde mir, würde meine Aufmerksamkeit zu den Nodes wandern, die einfach sehr viele Edges haben. //S01: Mhm.// Also zum Beispiel hier der Lead Engineer. Mhm. (.) So was würde mir direkt auffallen. Würde mir das auch auffallen, wenn es zusammengeklappt ist, wenn es hier zusammengeklappt ist. (12 seconds pause) Dann glaube ich, um, um den Datensatz so ein bisschen zu erkunden, dann finde ich die Version, also ich glaube, der Zustand, dass es, wenn ich das erste Mal sehe, alles aufgeklappt ist, ist sinnvoll für mich. //S01: Mhm. (.)// Sonst in anderen Visualisierungen startet man ja oft irgendwie so ein bisschen High Level und gibt Möglichkeiten für einen Drill da. (..) [00:07:19] Mhm. Jetzt, ach, ich denke nur laut nach, aber vielleicht ist es tatsächlich gut so, weil der Datensatz einigermaßen überschaubar ist. //S01: Mhm.// Der, der Trading Network Datensatz ist noch viel größer, da der wirkte ein bisschen overwhelming. Also dann würde ich merken, oh, der Lead Engineer hat aber ganz schön was zu tun und das sehe ich auf einen Blick nicht. (...) Den mal anrufen und sprechen, keine Ahnung. Ähm, also die Sortierung auch hilft, weil sonst würde das, sonst könnte ich es nicht so schnell erkennen. Wohl, das angekündigt mit der Datensatz. Ja. Sonst bräuchte es zusätzliches Highlighting. Gäbe es die Sortierung nicht und ich, ähm, würde auch gerne auf einen Blick sehen können, dass der Lead Engineer so viel zu tun hat und mit so vielen Leuten arbeitet, dann bräuchte das vielleicht ein zusätzliches Highlighting. um das irgendwie hervorzuheben, aber so, ähm, ja, die Darstellung lässt mich sehr schnell erkennen, wo sich irgendwas konzentriert.
+S01: [00:08:22] Mhm. Ja, oder auch, was ist das, Social. Der Director hat sehr viele Social Connections.
+S00: [00:08:30] Okay. Trifft ihr die alle privat? Ja. (14 seconds pause) Anhand des Reportings kann ich dann so ein bisschen die Firmenstrukturen auch vollziehen. (..) Alle Teamleads haben irgendwie mit dem Director zu tun. Was machen diese Manager? Es gibt vielleicht sowas wie ein, da hilft das Highlighting, dann kann ich versuchen nachzuvollziehen, was der Manager A macht und ich erkenne, okay, der ist irgendwie, hat mit den Engineers zu tun. Vielleicht ist das halt das Engineer Lead, also dem eigentlich, dem noch übergeordnet und Manager B hat irgendwie mit den Researchern zu tun. Das Sales Team untersteht nur dem Director, okay. (.........) [00:09:41] Wenn ich hier nochmal zuklappe, dann sehe ich so ein bisschen wie die Gruppen untereinander zu tun, was die hier miteinander zu tun haben oder auch nicht. (......) Dann sehe ich hier, das Management ist sehr involviert, sozial sehr involviert. (..) Oh, echt? (..)
+S01: [00:10:15] Das ist ein Unintended Behavior gefunden.
+S00: [00:10:20] Okay. (....) Gut, wenn ich alles zusammenklappe, alles, alles, alles, das kann ich auch hier machen. (..)
+S01: [00:10:30] So. (...)
+S00: [00:10:33] Okay, wenn ich alles, alles zusammenklappe, dann kann ich hier gar nichts mehr rauslesen. (.)
+S01: [00:10:39] Gut. (.) //S00: Und hier mache ich wieder so. Okay. (.)// Ja, du musst auch nicht länger mit einem Datensatz nicht beschäftigen. //S00: Wir können jetzt weitergehen.//
+S00: [00:10:46] Okay, dann gehen wir jetzt weiter zu dem Logistics Network. (....)
+S01: [00:10:54] Das war nur dieser Bug, der dann wirklich in diesem Teespan war.
+S00: [00:10:59] Das ist für mich, also dieses Konzept von diesem Egonetwork und ich sortiere nach, wie die benachbart sind, ist für mich, glaube ich, ein bisschen... (...)
+S01: [00:11:15] Genau, weil der...
+S00: [00:11:16] Ich vergleiche es mal mit den anderen. (..) Also hier ist es für mich irgendwie voll greifbar. (.) Ich kann irgendwie mit der Domäne was anfangen. Ich verstehe gleich direkt, worum es geht und ich verstehe direkt, was diese Kanten bedeuten und wie die miteinander in Verbindung stehen. Und bei diesem Egonetwork habe ich das Gefühl, brauche ich einen Tick länger, um kognitiv zu begreifen am Moment mal. Was heißen die Edges jetzt nochmal? (...) Oder diese Sortierung oder diese Zahlen hier oben. Es ist ein klein wenig abstrakter für mich.
+S01: [00:11:51] Verstehe. Ja.
+S00: [00:11:53] So. (..)
+S01: [00:11:55] Und hat das mit der Visualisierung zu tun oder mit dem Datensatz? (......)
+S00: [00:12:04] Überlegen. Ich habe den Datensatz noch nicht so richtig angeguckt. (..) Also hier gibt es irgend so ein Global Center, okay, und dann... (.) Von da geht's... (...) Okay, also das sind alles irgendwelche Shipments oder so, okay. (14 seconds pause) Ja, die Mental Map dafür so irgendwie klar zu kriegen, gefällt mir ein bisschen schwieriger. Schwieriger. Also die sind gruppiert nach... Das sind die unmittelbaren Nachbarn.
+S01: [00:12:51] Mhm.
+S00: [00:12:52] Heißt, es geht von hier nach da in einem Schritt, okay. Und dann innerhalb... (...) Alles ausgehend von dem hier. (........)
+S01: [00:13:10] Ja, okay. (.)
+S00: [00:13:12] Und dann kann ich bisschen... Kann ich nachvollziehen, wie die...
+S01: [00:13:17] Das ist korrekt. ...Wie die Ware aus... Ich habe das Gefühl, diese Art der Visualisierung konzentriert sich sehr darauf, also hat den Fokus
+S00: [00:13:29] auf diesem Ding. //S00: Mhm.//
+S01: [00:13:30] Alles in Bezug auf dieses Global Center, wie es von da geht. (....) Okay. Ja, okay. Gut.
+S00: [00:13:50] Ähm, ja, ich glaube, da muss ich mich ein bisschen mehr reindenken, aber das ergibt schon irgendwie Sinn und die Sortierung ergibt auch Sinn und dass hier dieses gelbe und türkise und pinke immer nur Connections innerhalb der Gruppe sind und die dazwischen und so.
+S01: [00:14:07] Und dann fallen auch hier mir halt vor allem die auf, wo sich viele, wo eine Node sehr viele
+S00: [00:14:18] Endos hat. Ja, also auch da wird meine Aufmerksamkeit da glaube ich sehr schnell auf diese Gruppe
+S01: [00:14:24] speziell gezogen. Ja, ich habe das Bedürfnis, dass da was passiert. //S00: Genau.// Also zum Beispiel, was auf jeden Fall passieren sollte, ist, dass so eine Leistung an anderen gibt, wird die echt ausgegraut. Also falls sie...
+S00: [00:14:35] Ja, und dann bei so einem Logistics Network ist es ja...
+S01: [00:14:39] Es wird sie ausgegraut.
+S00: [00:14:41] Wenn ich mir vorstelle, die Ware wandert so und vielleicht wird sie hier, keine Ahnung, kommt sie hier an oder wird produziert oder ist egal. Hier startet ja so ein bisschen die Reise bei dem Global Center und dann geht es von einem zum nächsten immer weiter. (.) Also kommt sie irgendwo an und geht dann weiter. (..) Richtig. (..) Ähm, und jetzt, wenn ich mir das jetzt hier so anknücke hier zum Beispiel... (.) Okay, dann kommt sie hier vom Global Center und dann wird sie weiter geschippt an ganz viele verschiedene. (..) //S00: Lese ich das richtig? (..)//
+S01: [00:15:21] Hier...
+S00: [00:15:22] Dieser HUB bekommt Waren vom Global Center und verschippt es dann weiter an diese drei und nochmal acht. (...) Okay. (..) Beispiel der hier. Oh. (.) Da würde ich mich dann fragen, geht es hier denn... Komm, geht es hier weiter? Was passiert mit der Trucking Fleet? (.)
+S01: [00:15:44] Die fährt doch bestimmt auch irgendwo los.
+S00: [00:15:46] Wo gehen dann die Waren hin? //S01: Mhm. (..)// Also in meinem... (.) Ich würde irgendwie erwarten, dass die Nodes alle eingehende und irgendwie auch ausgehende Edges, bis die halt irgendwo ankommen. Ja. (.)
+S01: [00:16:01] Wenn du auf eines Supports haverest, sollte ein... Alle K-Apps werden... (.) Also quasi der Sub-Sheet. //S00: Okay.// Und der Sub-Sheet. Mach mal noch zu. Und dann weißt, okay, mich hier drauf... (.) Hören Sie ja nicht. Erst wenn ich da auf... Genau. Und sollte dann halt das machen, weil... Ich würde sagen, wenn ich den Port havere, was... Vielleicht können wir das alle den Port highlighten. //S00: Ja.// Du weißt, die hängen irgendwie... Dieses...
+S00: [00:16:31] Die Domäne, dieses Beispiel ist vielleicht ein bisschen zu abstrakt für mich, um mich jetzt so gut reindenken zu können und zu überlegen, was wäre der Benefit, mir irgendwie die Hyper-Edges anzugucken und was würde ich als Logistics Operator oder so da rauslesen. Ich glaube, entweder bin ich da zu weit weg sowieso, also von dem, was ich sonst so mache, oder... Oder vielleicht ist das hier ein bisschen zu... zu abstrakt oder... //S01: Ja. (.) //S00: Okay, aber das können wir ja hier abprobieren.//
+S00: [00:17:02] Ich gehe jetzt zur Trading Network. (.....)
+S01: [00:17:08] Ähm...
+S00: [00:17:09] Ja, das ist deutlich größer als die beiden anderen Datensätze und irgendwie sehr viel. //S01: Mhm.// Und vielleicht... (....) Also das fühlt sich ein bisschen... (...) Das ist so viel Information auf einmal, dass ich nirgendwo wirklich hängen bleibe. //S01: Mhm.// Also das sehe ich eher als... Wie so als Bild und sehe, okay, viele verschiedene Farben und ganz viel Text. Das ist so, was ich im ersten Moment wahrnehme. Und im Vergleich zu dem Company Network, da fällt es mir leichter, reinzugehen und zu verstehen, okay, und was sind die Nodes und was sind die Edges, aber das hier ist ein bisschen zu viel, als dass ich das einfach verdauen kann. //S01: Mhm.//
+S01: [00:17:53] Also im Zweifel, hier in der Ebene drunter, da wo diese... (..)
+S00: [00:18:00] Trading Network. (.)
+S01: [00:18:02] Okay.
+S00: [00:18:03] Die Nodes haben an Labels. (10 seconds pause) Und da bin ich mir nicht sicher, was das... was die sind. Ob das Firmen sind oder irgendwelche... (...) Es bin Fonds oder... (....) Es heißt Trading Network, also würde ich denken, das Geld. Und vielleicht sind denn die, ähm, Edges irgendwelche Geldflüsse. Du meintest ja am Anfang auch, die sind nicht gerichtet, diese Edges.
+S01: [00:18:42] Mhm. (..)
+S00: [00:18:45] Es könnte auch ne Art Zusammenarbeit... Dabei, also weiß ich nicht genau, was der Datensatz ist. (..) Jetzt eine Edge angucke, dann verbinde die zwei. (15 seconds pause) //S00: Ja, und hier gibt's auch keine Gruppenlinks. (...)//
+S01: [00:19:19] Richtig, ja. Das muss verstanden. (...) So, der ganze Tag... Ja, das ist so ein klassisches Problem, glaube ich. (.)
+S00: [00:19:28] Was gibt... (..)
+S01: [00:19:31] Es gibt auch Edge-Groups, da weiß ich, die sind einfach nur nummeriert.
+S00: [00:19:38] Hattest du mir erklärt? //S01: Tage, ja.// Tage, stimmt. Ah, okay. Business an Tag 1, Tag 2, Tag 3, okay. (...)
+S01: [00:19:48] Ja, was ich dann... (.)
+S00: [00:19:52] Was ich irgendwie ablesen kann, ist so ein bisschen... Also, wie gesagt, weiß ich nicht, worum es hier geht. Sagen wir halt irgendeinen Geldfluss, dann, ähm, sehe ich so ein bisschen das Volumen. //S01: Tag 6 war sehr ruhig. //S00: Tag 5 war sehr busy. (.)//
+S01: [00:20:08] Mhm. (..) Bist du zu dieser Konkurse schon gekommen?
+S00: [00:20:12] Die Dichte an... //S01: Okay.// Oder die Anzahl... Ja, wie, wie, äh... Ja, die Anzahl an Edges im Prinzip, wie breit der...
+S01: [00:20:21] Ja, genau. //S00: Okay, mhm. (...) Ja.// Okay, und dann ist das auch sortiert, heißt die hier oben haben wir am meisten und hier unten. (..) //S00: Okay. (18 seconds pause)//
+S00: [00:20:54] Ist mich die... (..)
+S01: [00:20:59] Alle?
+S00: [00:21:00] Auf den Hyperedges nicht so gut wahr.
+S01: [00:21:03] Mhm. (.)
+S00: [00:21:05] Das auch einfach nur, weil der Datensatz so groß ist.
+S01: [00:21:07] Ja. (15 seconds pause) Ja, und wenn ich jetzt kollapse, ich überlege, was ich dann erkennen kann, was ich vielleicht nicht
+S00: [00:21:31] erkennen kann, wenn es expandet. (......) Jetzt, wenn ich die Edge Groups collapse, dann ist es sehr viel aufgeräumter.
+S01: [00:21:47] Mhm. (......)
+S00: [00:21:52] Aber dann kann ich auch nicht so viel rauslesen. (.) Also so gerade fällt mir nicht ein, warum ich diese View bevorzugen würde.
+S01: [00:22:01] Mhm. (...) In diesem konkreten Beispiel. //S01: Ja. (.......)//
+S00: [00:22:14] Aber diese, ah, das könnte natürlich auch. Das wiederum, wenn ich das, was mich gerade nicht interessiert, zuklappe und das, was mich interessiert, aufklappe, hilft dem, hilft in dem Fall enorm. //S01: Weil jetzt... (..)// Kann ich hier, oder auch so, auf einmal kann ich die alle, kann ich es viel besser sehen.
+S01: [00:22:32] Ja. //S00: Okay. (.)//
+S00: [00:22:35] Dann gucke ich mir jetzt Tag 1 an, was da so passiert ist. //S01: Die Trails oder wie auch immer.//
+S01: [00:22:40] Wenn es hier so spitz ist. (..) Ja, wenn die Edge hier müssen doch zack. (..) Sehr offensichtlich nicht, wenn Winkel aufgeht oder da jetzt irgendwie... //S00: Okay.// Das ist so ein Artefakt, weil der Winkel hier viel flacher ist. Und wenn es spitz wird, dann ist doch da nicht die Breite der Linie härter ein. Okay. (....) Ja. (...)
+S00: [00:23:09] Ja. Mehr habe ich nicht. Okay, cool.
+S01: [00:23:12] Dann höre ich auf zu recorden. Okay. //S00: Auf doctoratje!// Feiers samen erstmal seit 17 işim proceso gemacht, plants, plants, plants etc... Dafür. So, wir glauben gerade immer, nein ab. So, ich sicher fische was heute hier.-

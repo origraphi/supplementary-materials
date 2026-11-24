@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.4.2/src/parser/GlobalConfigSchema.json",
+  "configsList": [
+    "biofabric-study"
+  ],
+  "configs": {
+    "tutorial": {
+      "path": "tutorial/config.json"
+    },
+    "biofabric-study": {
+      "path": "biofabric-study/config.json"
+    },
+    "biofabric-study-pilot": {
+      "path": "biofabric-study/config.json"
+    }
+  }
+}

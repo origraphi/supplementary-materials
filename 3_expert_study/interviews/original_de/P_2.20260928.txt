@@ -1,0 +1,176 @@
+P_2.20260928
+
+P_2.20260928
+
+Transcribed with noScribe vers. 0.7
+(Language: German (de) | Speaker detection: 2 | Overlapping speech: 1 | Timestamps: 1 | Disfluencies: 1 | Mark pause: 1)
+
+(..) 
+
+S00: [00:00:01] Genau. Okay. Genau. Und das Ziel ist, es ist eine Open Exploration. Also, du kannst beschreiben, was du siehst, ähm, was dich interessiert. Und das ist sowohl am Datensatz selber, aber auch für die Visualisierung itself. Einmal so weit ist. Okay. Du kannst auch besprechen, ah, ich wünschte, ich könnte dies und das machen. Oder, ah, ich habe einen Bug gefunden, das sollte eigentlich anders funktionieren. Also, es ist sehr offen. Mhm. Also, ich finde es, ähm, sehr aufgeräumt, sehr übersichtlich. Also,
+
+S01: [00:00:43] so, so diese verschiedenen, ähm, Kategorien kann man gut auseinanderhalten. Und es ist, also, es ist nicht zu voll. Zumindest jetzt bei diesem Datensatz. Ähm, ich finde, die hier sind jetzt, in dem Datensatz, sieht so ein bisschen, hier so ähnlich aus. Dass die nach so Bögen machen. Mhm. Und ich überlege mir, ob das halt was bedeuten kann. Ähm, es gibt manche, also hier zum Beispiel der Director, der scheint mit vielen anderen verbunden zu sein. Mhm. Auch in andere Gruppen. (10 seconds pause)
+
+S00: [00:01:38] Weil ich dann hinten, die du angemerkt hast, mit diesem genanntes Bögen, mhm, hängt mit der Sortierung des Datensatzes, also der, also des, des Graphen zusammen. Mhm. 
+
+S01: [00:02:00] Das ist, weil, also, die, wer hier weiter oben ist, kommt auch hier weiter links? (..) In dem Sinne. Ähm, sortiert, oder? 
+
+S00: Nicht unbedingt. Okay. Ähm, ich weiß nicht, ob ich dir die Antwort noch drauf anschaue. Also, warte mal. 
+
+S01: Also, hier ist zumindest ein, also, der hier. Mhm. Der verbindet ja zu dem Ingenieur 1. Und 1 hat selber auch, aber nur nach, weiter nach unten, also nicht mehr zurück. Kann ich ja hier draufklicken, genau, da kann ich das ja sehen. 
+
+S00: Genau richtig. 
+
+S01: Achso. Also, sie sind wohl innerhalb von den Gruppen sortiert. Mhm. Also, nicht, nicht komplett, sondern halt innerhalb von der Gruppe, oder? (.)
+
+S00: [00:02:52] Ja. Es hängt, glaub, bevor du, weil, es geht ja auch nicht darum, dass du jetzt puzzeln musst, wie das Ganze funktioniert. Ja. Ja. Dann kannst du auch wieder da draufklicken, das ist gut. Dann geht's weg. Mhm. Es, die sind nach, erst einmal nach, nach, nach degree sortiert. Ah. Die, die, die Nodes. Okay. Ähm, dann, danach sortierst du Edges nach ihrer Länge. Also, innerhalb, also, innerhalb, also, du sortierst, äh, du sortierst erstmal die ganzen Nodes. Ja. Nach Degree. Dann versuchst du alle Edges, die an den höchsten Degree Node attached sind, als erstes zu zeichnen. Mhm. Und innerhalb davon wird es dann nach Länge sortieren. 
+
+S01: Aha, okay. 
+
+S00: Ja. Dann kriegst du Runways und Stairways. Runways sind diese Stairlines oben. Ja. Und Stairs, oder Staircases, sind eben diese Stücke. Mhm. Okay. Also, das sind dann im Prinzip
+
+S01: [00:04:01] so zentralere Knoten, die viele, so im Runway haben. 
+
+S00: Genau. 
+
+S01: Und die Stairways sind dann eher so, nicht Ketten, aber so, bisschen weiter auseinander.
+
+S00:  Ja, genau. Es ist eine gute Frage. Es ist, äh, was genau die darstellen. Mhm. Und es ist ein separates Paper Moment. 
+
+S01: Alles klar. Gut. Ja, also, ich hab mich über die hier gewundert, weil die sind zwar, haben den gleichen Source. Mhm. Aber der längere ist weiter weg. 
+
+S00: Genau. Der längere ist weiter weg. 
+
+S01: Sollte auch weiter rechts. Achso. Eben dazu. Mhm. Achso, das kann ich hier ja auch. Also, hier muss ich sagen, so auf Anhieb hab ich nicht verstanden. Also, wenn du's nicht gesagt hättest, hätte ich nicht verstanden, was das hier soll. Was die Symbole bedeuten sollen. 
+
+S00: Genau. 
+
+S01: Also, zumindest so ein Tooltipp oder so hätte ich gedacht, hätte mir da geholfen vielleicht. Mhm. Aber es ist sehr praktisch. Hier kann man dann jetzt ein bisschen sehen, ob die, äh, Verbindungen innerhalb von der Gruppe bleiben oder halt vernetzt sind. Mhm. Ähm. [00:05:33] Ich bin gleich vernetzt. Mhm.
+
+S00: [00:05:58] Also, wenn du jetzt zum Beispiel nochmal alles aufklapst, hat der Datensatz selber hier eine Semantik. Im Sinne von, es geht hier, es ist eine Company Network. 
+
+S01: Ja. 
+
+S00: Also, es geht um, wie auch oben links angezeigt, im Namen. 
+
+S01: Um verschiedene Departements. 
+
+S00: Genau, richtig. Mhm. Und, ähm, es auch dir Gedanken machen, über was dir jetzt im Datensatz selber auffällt. Also, nicht nur die Visualisierung, sondern auch innerhalb dieses Datensatzes ist, ah, interessant, mir fällt auf, dass, ja, mir darf ich auch das sagen. 
+
+S01: Ja. Also, mir fällt auf, dass natürlich, also es gibt ja mal so ein Lied und (.) [00:06:37] Und die Lied, die haben mehr diese, wie hast du es genannt, Runways. Runways, ja. Die sind viel vernetzt zu den Einzelnen. Also, es ist hier zum Beispiel innerhalb von Management, ähm, eigentlich der, ähm, die Verbindungen zu allen in seinem Department, weil die untereinander eigentlich gar nicht so viel. Mhm. Also, außerdem ist der hier mit allen anderen Lieds verbunden, aber innerhalb von diesem, das Reporting. Reporting ist quasi alle reporten nach oben, würde ich jetzt sagen. Also, das heißt, alle müssen, also alle müssen, also alle müssen, zu Director, direkt, ähm, erzählen, was sie machen, oder was sie, passiert ist, keine Ahnung. Ja, genau. Genau, aber andersrum überlegen, ist es eigentlich auch so. Also, der ist hier auch sonst sehr vernetzt. Aber, also das ist hier ein bisschen [00:07:51] Ungleichmäßig. Also, hier bei Reporting sind jetzt zum Beispiel in dieser Gruppe nur alle, alle vernetzt quasi. Hier nicht. Hier in Social geht's eher, eher in die anderen Gruppen, habe ich den Eindruck. (......) Ja. Das ist eigentlich nur der, der hier so in der Gruppe bleibt, und die anderen sind in die anderen Departments vernetzt. Ja. Ähm, Social weiß ich nicht genau, was es sein soll, ehrlich gesagt. Also, ich, ist das dann eher so eine private Ebene, oder ist das...
+
+S00: [00:08:30] Wir kriege ich. Also, Interpretation, glaube ich, die da meistens sind, jetzt ist es eine private Ebene. Mhm. 
+
+S01: Das heißt, die, äh, die sind quasi... Jetzt muss ich die doch auch mal alle zumachen. Naja, also, also im Prinzip das Management ist eher zu den anderen von Social. Bei den anderen ist es, würde ich sagen, [00:08:54] ein bisschen ausgeglichen. Die sind auch innerhalb sozial vernetzt. Ja. Und Collaboration scheinen die Engineers ziemlich gut miteinander,
+
+S00: [00:09:06] oder viel miteinander zu kollaborieren. Genau. Also, ich finde, es ist praktisch, dass ich die hier so, die Gruppen, (....)
+
+S01: [00:09:19] ähm, weil es dann nochmal mehr Kanten wegnimmt, und man nochmal so genauer sehen kann. Ich finde auch das mit diesen einzelnen, äh,
+
+S00: [00:09:27] ähm, Bobbeln 
+
+S01: ganz, ähm, hilfreich irgendwie, ja. Ähm, hier bin ich mir noch nicht so sicher, ob ich das hilfreich finde. Ähm, hier ist interessant, [00:09:51] dass immer nur die ersten drei, oder so, zu seinem Report. Ja, das sieht wieder auch wie so ein Muster aus. Ähm... (.....) Ja, genau. Es ist jetzt, kommen wir noch weiter und dann wieder raus. Ja. Und gehen wir wieder zurück? Also, halb und wieder...
+
+S00: [00:10:22] Achso, nein, dann nicht. Es ist ein Zyklus. 
+
+S01: Ja. Irgendwie scheinen hier so bestimmte Kontakte zu sein. Also, nicht, nicht, nicht jeder mit jedem, sondern so. Jeder hat so sein, ein oder zwei Leute in dem anderen Typ hat. Ja, (.........) [00:11:10] also bei Collaboration ist es irgendwie im Gegensatz zu dem, beziehungsweise im Gegensatz zu Social, würde ich sagen, mehr innerhalb von dem. Das ist mein Eindruck. Ja, ich habe... (..) Dass da eben, da gibt's schon Verbindungen zu anderen, aber eher innerhalb von dem Team. Und hier ist es eher, genau, habe ich die Eindruck. Ja, ja, genau. Ähm... Also, bei den Taten? Ja. Ich finde es manchmal, also gerade bei diesen
+
+S01: [00:11:45] Kanten, bin ich manchmal ein bisschen viel gezappelt. Also, vielleicht ist es ein bisschen ruhiger,
+
+S01: [00:11:54] wird vielleicht irgendwie ein- oder ausblendet, wird es nicht sofort reagiert, wenn ich nur so klickere. (.....)
+
+S00: [00:12:07] dir Gedanken machst über die Daten der Frage, die du vielleicht hättest für einen solchen Datensatz. Mhm. (.) Wie gibt es Features, die du dir wünschen, wie du hättest? Nicht oder nicht, aber... 
+
+S01: Ja, ich muss kurz überlegen. (..)
+
+S01: [00:12:29] Ähm, fällt mir spontan nichts ein. Eventuell, ja, wohl vielleicht, dass man irgendwie so ähnliche Verbindungen auch hervorheben kann. 
+
+S00: Okay. 
+
+S01: So dass, wie wenn ich jetzt hier einen hab, der ist mit allen verbunden oder so, dann irgendwo nochmal vorkommen. 
+
+S00: Ich verstehe, also fast schon, fast schon ein Clustering. 
+
+S01: Vielleicht. 
+
+S00: Ja, okay. 
+
+S01: Also, ich finde in diesem Datensatz schon eher, ja, wer ist mit wem verbunden. Eventuell noch mehr Informationen zu den Kanten, also, dass man, keine Ahnung, wie ist die Verbindung oder so. Sowas könnte man sich noch vorstellen, aber dafür vermisse ich jetzt gerade nicht besonders. (..)
+
+S00: [00:13:30] Also, wenn du, also sprich, du sagst, wenn das ein multivariater Datensatz wäre, dass die Kanten vielleicht noch Descriptors hätten. Ja.
+
+S01: [00:13:36] Ja, keine Ahnung, das ist das rote Telefon, das ist immer... Keine Ahnung. Ja. (.......) 
+
+S01: [00:13:55] Okay, es ist, ähm, die Darstellung ist ein bisschen anders, es sind viel dickere Kanten. Ähm, finde ich tatsächlich...bisschen weniger übersichtlich. Ja, das kommt. Okay. (..)// Weil die auch hier so überlappen und... 
+
+S01: Ja, die dicken Linien sind... Ja.
+
+S01: Es sind weniger, deswegen kann man sie trotzdem gut verfolgen, aber sie sind... Ja, mir ein bisschen. (..) Muss ich mal kurz gucken, was ist das Logistik... (15 seconds pause) Sind, sind Alters, wie weit sie entfernt? In wieviel Hops? 
+
+S00: Hops, genau. 
+
+S01: Okay. (12 seconds pause)// Ich finde es schwer zu verstehen, was die Zahlen hier sind. [00:15:06] Also... 
+
+S00: Ja, das kann ich dir vielleicht kurz erklären. [00:15:09] Ähm, passt. (.) Es ist, es ist ja, wie du sehen kannst auch bei der Beschreibung, ein Ego-network. (..) Heißt, du hast Connections zwischen Levels auch innerhalb eines Levels. (....) Heißt, 1 heißt, das sind die Verbindungen innerhalb von 1. (.) 2 sind die Verbindungen innerhalb von 2. 3 sind die Verbindungen innerhalb von 3. Und 2,5 sind dann die Verbindungen von 2 nach 3. (.) 1,5 von 1 nach 2. Und 0,5 von 0 nach 1. Also hier finde ich es irgendwie weniger herauszufinden. (.)
+
+S01: [00:16:06] Ähm, die sind, ähm... (12 seconds pause) Ich muss ein bisschen lesen. 
+
+S00: Ja, total. 
+
+S01: (13 seconds pause) Das hier oben ist ja im Prinzip sowas wie das Zentrum. Also Ego-Network bin ich nicht so sehr...Da bestimmen uns irgendwie Zentrum [00:16:43] Okay, und dann geht es immer weiter auseinander. (..)
+
+S01: [00:16:53] Ja, die sind eben innerhalb von diesen alters auch noch miteinander verknüpft. [00:17:00] Ähm, sogar relativ viel. (.)
+
+S01: [00:17:07] Also hier, das sieht sehr regelmäßig aus. Einfach...
+
+S01: [00:17:11] Es geht aus der Mitte los, würde ich sagen.
+
+S01: [00:17:16] Und dann hier, das sind ja verschiedene Arten, wie man das transportieren kann. (.)
+
+S01: [00:17:22] Ähm, da die...
+
+S01: [00:17:27] Ja, sind verbunden.  
+
+S01: [00:17:36] Was mit R und C über C, also das ist über beides, äh, verschickt. (..) Also ist das die, ähm, dass man quasi diese verschiedenen Arten was zu transportieren, ähm, dass die sich auch aneinander reihen können quasi. Also er sagt so, er sagt sich, ich, ähm, ähm, also ich hab dieses Center und da kann ich in alle Arten gehen. Ja. Und von jeder Art kann ich auch noch quasi zu anderen, außer zu dieser Customs Clearing Zone. Da gibt's hier keine Verwendung. Genau. //S00: Und von dort aus wiederum geht's in... Also über verschiedene Arten, äh, der Transport... ...des Transport? Mhm.// In verschiedene Regionen. Falsch. Ja. Und, ähm, da eben vor allem über die Luft halt in alle Regionen, weil du kannst alles erreichen wahrscheinlich. und über das Meer auch eben kannst du noch relativ freundlich, aber das ist dann eher... [00:18:43] Also ich stell's mir so vor, dass man über die Luft das erreichen kann. Weil die anderen dann ist wieder über die Entfernung oder irgendwelche anderen, äh, Einschränkungen halt da nur manche Dinge verbunden sind. (..) Ähm, genau. (11 seconds pause) Also die Regionen sind auch noch verbunden, das heißt... Also ist das so ein...Also Logistics, das heißt ja eigentlich, das ist irgendwie Ware oder irgendwas wird transportiert, ja. Okay. Und das heißt, es werden auch...Manche Dinge werden auch zwischen verschiedenen Regionen nochmal... (.) ...transportiert oder kommen Einzelteile oder was weiß ich nicht genau. (..) Ja, und das ist dann im Prinzip dort, wo es hinbestellt wurde, ähm, und das kommt eben aus allen, aus allen Regionen an die Endbenutzer. (...) [00:19:53] Auch dort kann's eben... Gerade diese Hubs, die sind natürlich noch weiter verbunden, weil die... ...ja, wahrscheinlich noch mehr als Zwischenstation sind.
+
+S01: [00:20:04] Ja. (...) Also mir fällt auf, dass ich hier überhaupt nicht kollapsen wollte. 
+
+S01: S00: Okay, das ist schon interessant, okay.//
+
+S01: [00:20:13] Also weil's einfach nicht so viele, äh, Kanten sind. Ja, das hat mir jetzt nicht gefehlt hier.
+
+S00: [00:20:24] Ja, verstehe ich total. Okay. (.) Ja, verstehe ich. (..) 
+
+S01: Das ist so eine Frage zu diesem. (.) Ja. (..) 
+
+S00: Wenn du dir über Ego, wenn du dir, ich mein, wir nennen ja nicht Ego-Networks, sondern Neighborhood-Graphs, glaub ich. Aber wenn du dir so die klassischen Darstellungsweisen vorstellst und das hier im Vergleich, es gibt Sachen, die dir, ich sag jetzt mal, weniger gut funktionieren oder Sachen, wo du sagen würdest, ah, das finde ich eigentlich besser oder das hätte ich mir noch gewünscht oder sonst was. (....)
+
+S01: [00:20:54] Also, man erwartet die ja so irgendwie so, dass man so ein Zentrum hat, fächermäßig auseinander und so. Da könnte ich mir aber vorstellen, dass es, ähm, gerade für diese Zwischen, ähm, Bindung, also diese 1,5, 2,5, dass es da irgendwann zu dicht wird, dass man dann nicht mehr so richtig sieht. Ja, da sieht man nur, da ist viel, aber da ist nicht, ähm, nicht mehr so genau, wer ist mit wem verbunden, weil die Kante vielleicht auch noch quer über andere durchgeht oder irgendwie sich durchschlängeln muss. Das, finde ich, ist hier eigentlich ganz schön, dass man das übersichtlich hat. (.) Man muss sich ein bisschen gewöhnen, finde ich, an diese Darstellung hier. [00:21:37] Ja, okay. Also, weil, ja, ja, also, weil man es nicht, also, ich finde, es ist ein bisschen gut,
+
+S01: [00:21:50] dass die Koden halt da einfach die Linie sind und dass das Verbindende ist, weil hier ja auch, hier sind die so ein bisschen im Hintergrund. Mhm. Also, ich finde es weniger intuitiv, aber man kann, gerade da, wo es dichter wird, schon besser was draus fliegen. Ja, fair. Mhm. (........) Oh, hier ist viel los. Es gibt nur eine Gruppe. Radio. (...)
+
+S00: [00:22:27] Genau, also hier nochmal, das sind... Ist das Bank? 
+
+S00: Genau, das sind, genau, das sind Transaktionen, finanzielle Transaktionen. (..) Jede Gruppe ist ein Slice. Also, du kannst dir vorstellen, die Tage, Tag 1, Tag 2, Tag 3, etc. 
+
+S01: Okay, und was sind die hier? 
+
+S00: Das sind die, also, die Knoten selber. Ja. Das sind dann die Companies, die miteinander traden. 
+
+S01: Ah, okay. Ah, okay. Und das ist dann über die Zeit. Ja, genau. (.......)
+
+S01: [00:23:10] Ja, hier ist wieder viel los. Also, man sieht, wer an welchen Tagen besonders aktiv ist. Also, zum Beispiel hier sind die beiden oben aktiv, mit weiter eher unten zu handeln. Ja, am ersten Tag ist es allgemein ein bisschen weniger los. (..)
+
+S00: [00:23:38] Ähm, den mit dem Thema gar nicht ein bisschen weniger anfangen als mit den anderen. Ja, total. Ja, total. Ja, einschneiden können. (.......)
+
+S01: [00:24:00] Es ist tatsächlich hilfreich, das ein bisschen einzuklappen. Mhm. (.) Weil, wenn man eben dann wieder leichter die Linien verfolgen kann. Mhm. Und man eher sieht, mit wem alles setzt, der, der, der, der... Ja, verstehe. (...)
+
+S00: [00:24:22] Du findest es übersichtlicher, geht es so anzuschauen. Ja, wenn ich jetzt so halb, ja. Mhm.
+
+S01: [00:24:26] Wobei ich glaub, also, das ganz Einklappen finde ich wiederum, weil da... Ja. (..) Ja. Ja. Das war halt im anderen für mich jetzt interessanter, weil es mehrere Gruppen gab. Da konnte man eher sagen, welche Gruppen sind verbunden. Aber so finde ich, es ist nicht mehr so eindeutig. Mhm. Ja, angenehm. (13 seconds pause)
+
+S00: [00:25:07] Hast du da zu fragen? Ähm, nee, ich mein, wie gesagt, so eine halbe Stunde ungefähr ist ja gedacht. Und wir sind schon bei 25 Minuten. Ja, okay. Also wenn du sagst, dass du jetzt hierzu eigentlich...
+
+S01: [00:25:17] Dazu habe ich nicht so viel, ja. Also man kann natürlich hier ein bisschen die Formen vergleichen über die Zeit, ob sich da was besonders ändert. Mhm. Aber jetzt nicht so gut.
+
+S00: [00:25:34] Und so bisschen, dass jeder sich mobil auf dem Ziemann hat. Ja, jeder sich mobil auf dem Ziemann hat. Ja, jeder sich mobil auf dem Ziemann hat.

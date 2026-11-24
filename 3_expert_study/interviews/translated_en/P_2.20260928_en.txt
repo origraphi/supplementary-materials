@@ -1,0 +1,174 @@
+P_2.20260928
+
+Transcribed with noScribe vers. 0.7
+(Language: German (de) | Speaker detection: 2 | Overlapping speech: 1 | Timestamps: 1 | Disfluencies: 1 | Mark pause: 1)
+
+(.) 
+
+S00: [00:00:01] Exactly. Okay. Exactly. And the goal is, it is an open exploration. So, you can describe what you see, about what interests you. And that's both on the dataset itself, but also for the visualization itself. Once is ready. Okay. You can also discuss, ah, I wish I could do this and that. Or, ah, I found a bug, that should work differently. So, it's very open. Mhm. So, I find it, um, very tidy, very clear. So,
+
+S01: [00:00:43] so, so these different, um, categories can be kept apart. And it is, so, it is not too full. At least now with this dataset. Ehm, I think the ones here are now, in the dataset, looks a bit like that, here so similar. That they make such arches. Mhm. And I'm thinking about whether that can mean something. Ehm, there are some, for example the director, who seems to be connected to many others. Mhm. Also in other groups. (10 seconds pause)
+
+S00: [00:01:38] Because then I back, you noted, with this mentioned bow, mhm, is related to the sorting of the record, that is, the one, of the graph. Mhm. 
+
+S01: [00:02:00] That's because, because, who is further up here, comes further to the left? (.) In that sense. Um, sorted, right? 
+
+S00: Not necessarily. Okay. Hey, I don't know if I'll look at the answer for you. So, wait a minute. 
+
+S01: Well, here's at least one, so here. Mhm. He connects with the engineer 1. And 1 has itself, but only after, further down, so no more back. Can I click on it, exactly, I can see that. 
+
+S00: That's exactly right. 
+
+S01: Achso. So, they are probably sorted within the groups. Mhm. So, not, not completely, but within the group, right? (.)
+
+S00: [00:02:52] Yes. It hangs, believe, before you, because, it's not about you having to puzzle down how it works. Yes. Yes. Then you can click on it again, that's good. Then it'll go away. Mhm. It, which are after, first after, sorted by, according to degree. Ah. The, the, the nodes. Okay. He, then, then, you sort edges by their length. So, inside, well, inside, so, you sort, er, you sort all the nodes first. Yes. According to Degree. Then you try to draw all edges attached to the highest degree node first. Mhm. And within it will sort it by length. 
+
+S01: Aha, okay. 
+
+S00: Yes. Then you get Runways and Stairways. Runways are these stairlines above. Yes. And Stairs, or Staircases, are just these pieces. Mhm. Okay. So, these are in principle
+
+S01: [00:04:01] so more central nodes that many have in the runway. 
+
+S00: Exactly. 
+
+S01: And the Stairways are then rather like that, not chains, but so, a little further apart.
+
+S00: Yes, exactly. It's a good question. It is, ah, what exactly these represent. Mhm. And it's a separate paper moment. 
+
+S01: All right. Well. Yes, well, I was wondering about these here, because they are, though, have the same source. Mhm. But the longer one is further away. 
+
+S00: Exactly. The longer one is further away. 
+
+S01: Should also continue to the right. Achso. Just for that. Mhm. Oh, I can do that here too. So, here I must say, I didn't understand right away. So, if you hadn't said it, I wouldn't have understood what this was. What the symbols mean. 
+
+S00: Exactly. 
+
+S01: Well, at least such a tooltip or so I would have thought, maybe that would have helped me. Mhm. But it is very convenient. Here you can now see a bit whether the, äh, connections remain within the group or are just networked. Mhm. He. [00:05:33] I am equally connected. Mhm.
+
+S00: [00:05:58] So, if you suggest everything again, for example, the record itself has a semantics here. In the sense of, it goes here, it's a company network. 
+
+S01: Yes. 
+
+S00: So, it's about, as indicated in the top left, in the name. 
+
+S01: To different departments. 
+
+S00: Exactly, right. Mhm. And, um, you too are worrying about what you are now noticing in the record itself. So, not only the visualization, but also within this record is, ah, interesting, I notice that, yes, to me I may also say that. 
+
+S01: Yes. So, I notice that of course, so there is such a song and (.) [00:06:37] And the song that have more of these, how did you call it Runways. Runways, yes. They are much connected to the individuals. So, it's here, for example, within management, er, actually the, the connections to all in his department, because the each other actually doesn't actually much. Mhm. So, moreover, the one here is connected with all the other song, but within this, the reporting. Reporting is virtually all reporting upwards, I would say now. So, that means, all must, so all must, so all must, to director, directly, um, tell what they are doing, or what they, happened, no idea. Yes, exactly. Exactly, but superior in the opposing way, it is actually the same. So, he is also very connected here. But, so this is a bit [00:07:51] Uneven. So, here in reporting, for example, only everyone in this group, are now networked, virtually. Not here. Here in Social it's more like that, rather in the other groups, I have the impression. (......) Yes. This is actually only the one that remains in the group, and the others are networked in the other departments. Yes. He, socially, I don't know exactly what it's supposed to be, honestly. So, I, that's more of a private level, or is that...
+
+S00: [00:08:30] We get me. So, interpretation, I think they are mostly, now it's a private level. Mhm. 
+
+S01: That means the, äh, they are... Now I have to close them all. Well, so, in principle, the management is more to the others of Social. With the others, I would say, [00:08:54] it's a bit balanced. They are also socially networked within. Yes. And collaboration the Engineers seem pretty good together,
+
+S00: [00:09:06] or much to collaborate with each other. Exactly. So, I think it's convenient that I'm these so, the groups, (....)
+
+S01: [00:09:19] um, because it takes away more edges, and you can see more precisely. I also think that with these individual, äh,
+
+S00: [00:09:27] um, Bobbeln 
+
+S01: whole, um, helpful somehow, yes. Ehm, here I am not so sure if I find this helpful. Ehm, here's interesting, [00:09:51] that always only the first three, or so, to his report. Yes, that looks like a pattern again. Hem... (.....) Yes, exactly. It is now, let's get even further and then out again. Yes. And are we going back again? So, half and again...
+
+S00: [00:10:22] Oh, no, then not. It is a cycle. 
+
+S01: Yes. Somehow there seem to be certain contacts here. So, not, not everyone with everyone, but so on. Everyone has to be like that, has one or two people in the other type. Yes, (.........) [00:11:10] so with collaboration it's somehow in contrast to that, or as opposed to Social, I would say more within that. That is my impression. Yes, I have... (.) That's exactly, there are already connections to others, but rather within the team. And here it is rather, exactly, I have the impression. Yes, yes, exactly. Hem... So, at the acts? Yes. I find it sometimes, so especially with these
+
+S01: [00:11:45] Edges, I'm a bit fidgeted a bit a bit. So, maybe it's a bit quieter,
+
+S01: [00:11:54] may be shown or hidden, it doesn't react immediately if I just click. (.....)
+
+S00: [00:12:07] thinking about the data of the question you might have for such a record. Mhm. (.) How are there features you wish as you had? Not or not, but... 
+
+S01: Yes, I have to think about it. (.)
+
+S01: [00:12:29] Uhm, I don't think of anything spontaneously. Perhaps, yes, perhaps that one can also highlight such similar connections. 
+
+S00: Okay. 
+
+S01: So that, as if I have one here now, that is connected to everyone or something, then happen again somewhere. 
+
+S00: I almost understand, almost a clustering. 
+
+S01: Maybe. 
+
+S00: Yes, okay. 
+
+S01: Well, I find in this record rather, yes, who is connected with whom. Maybe more information about the edges, so that one, no idea how is the connection or something. You could still imagine something like that, but I don't miss it now. (.)
+
+S00: [00:13:30] So if you, so speak, you say, if that were a multivariate record, that the edges might still have descriptors. Yes.
+
+S01: [00:13:36] Yeah, I don't know, this is the red phone, that's always... No idea. Yes. (.......) 
+
+S01: [00:13:55] Okay, it's, erm, the presentation is a bit different, they are much thicker edges. Ehm, I actually find...spically less clear. Yes, that's coming. Okay. (..)// Because they overlap here too and... 
+
+S01: Yes, the thick lines are... Yes.
+
+S01: It's less, so you can still track them well, but they are... Yes, a little bit. (.) Do I have to look briefly, what is the logistics... (15 seconds pause) Are there ages, how far away are they? In how many hops? 
+
+S00: Hops, exactly. 
+
+S01: Okay. (12 seconds pause)// I find it difficult to understand what the numbers are here. [00:15:06] So... 
+
+S00: Yes, I can explain that to you briefly. [00:15:09] Um, fits. (.) It is, it is yes, as you can also see in the description, a ego network. (.) This means that you have connections between levels even within a level. (.) That is, 1 means, that is the connections within 1. (.) 2 are the connections within 2. 3 are the connections within 3. And 2,5 are then the connections from 2 to 3. (.) 1.5 from 1 to 2. And 0.5 from 0 to 1. So here I find somehow less finding out. (.)
+
+S01: [00:16:06] Uhm, those are, oh... (12 seconds pause) I have to read a bit. 
+
+S00: Yes, totally. 
+
+S01: (13 seconds pause) The above is basically something like the center. So ego network I'm not so much...There are something centers [00:16:43] Okay, and then it goes on and on. (.)
+
+S01: [00:16:53] Yes, they are still linked within these ages. [00:17:00] Ehm, even a lot. (.)
+
+S01: [00:17:07] So here, it looks very regular. Simply...
+
+S01: [00:17:11] It starts from the middle, I would say.
+
+S01: [00:17:16] And then here, these are different ways of transporting it. (.)
+
+S01: [00:17:22] Heh, since the...
+
+S01: [00:17:27] Yes, are connected.  
+
+S01: [00:17:36] What to do with R and C about C, so that's about both er, happen. (.) So this is the, umame, that you can virtually transport these different ways of something, erm, that they can also string together quasi. So he says, he says to himself, I, um, um, so I have this center and I can go in all kinds. Yes. And of any kind, I can also go to others, except this Customs Clearing Zone. There's no use here. Exactly. //S00: And from there again it goes into... So about different types, äh, the transport... ...the transport? Mhm.// In different regions. Wrong. Yes. And, ah AM, especially over the air to all regions, because you can reach everything probably. and over the sea you can also just be relatively friendly, but that is then rather... [00:18:43] So I imagine that you can achieve it by air. Because the others are then again about the distance or any other, äh, restrictions just because only some things are connected. (.) Ehm, exactly. (11 seconds pause) So the regions are still connected, that is... So it's such a thing...So Logistics, that means actually, that's somehow goods or something is transported, yes. Okay. And that means there will be...Some things will be again between different regions... (.) ...transports or items or come or what I don't know exactly. (.) Yes, and that is in principle where it was ordered, er, and that comes from everyone, from all regions, to the end users. (...) [00:19:53] There, too, it can... Especially these hubs are of course even more connected, because the... ...yes, are probably even more than a stopover.
+
+S01: [00:20:04] Yes. (...) So I notice that I didn't want to collapse here at all. 
+
+S01: S00: Okay, that's interesting, okay.//
+
+S01: [00:20:13] So because there are just not that many, ah, edges. Yes, I didn't miss that here.
+
+S00: [00:20:24] Yes, I totally understand. Okay. (.) Yes, I understand. (.) 
+
+S01: That's a question about this. (.) Yes. (.) 
+
+S00: If you talk to you about ego, if you, I mean, we don't call ego networks, but neighborhood graphs, I think. But if you imagine the classic presentation styles and this in comparison, there are things that you, I say now, work less well or things where you would say, ah, I actually like that better or that I would have liked or something else. (.)
+
+S01: [00:20:54] So, you expect them to be such that you have such a center, fan-apart and so on. But I could imagine that it would be precisely for these intermediates, ahir, bond, i.e. this 1,5, 2,5, that it will eventually become too dense, that you will not see really anymore. Yes, you only see, there is a lot, but there is not, yeah, no longer so exactly, who is connected with whom, because the edge may also go through over others or somehow has to go through. I think that's actually quite nice that you have it clearly arranged. (.) You have to get used to this presentation here, I think. [00:21:37] Yeah, okay. So, because, yes, so because you can't, well, I think it's a bit good,
+
+S01: [00:21:50] that the codes are simply the line and that what unites is, because here too, here they are a bit in the background. Mhm. So, I find it less intuitive, but you can fly better, just where it gets closer. Yes, fair. Mhm. (........) Oh, there is a lot going on here. There is only one group. Radio. (...)
+
+S00: [00:22:27] Exactly, here again, that's... Is that bank? 
+
+S00: Exactly, that's exactly, these are transactions, financial transactions. (.) Each group is a slice. So, you can imagine the days, day 1, day 2, day 3, etc. 
+
+S01: Okay, and what are they here? 
+
+S00: These are the ones, the nodes themselves. Yes. These are the companies that trade with each other. 
+
+S01: Ah, okay. Ah, okay. And that is then about time. Yes, exactly. (.......)
+
+S01: [00:23:10] Yes, there's a lot going on here again. So, you can see who is particularly active on which days. So, for example, here the two above are active, with more down to acting down. Yes, on the first day it is generally a little less going on. (.)
+
+S00: [00:23:38] Ehm, who doesn't do a little less with the subject than with the others. Yes, totally. Yes, totally. Yes, cut. (.......)
+
+S01: [00:24:00] It's actually helpful to collapse this a bit. Mhm. (.) Because, if it is easier to track the lines again. Mhm. And you rather see with whom everything sets, the, the, the, the... Yes, understand. (...)
+
+S00: [00:24:22] You find it clearer, it goes to look at it. Yes, if I am half, yes. Mhm.
+
+S01: [00:24:26] I think so, I find that fold up again, because there... Yes. (.) Yes. Yes. That was more interesting for me now, because there were several groups. One could rather say which groups are connected. But that is how I think it is not so clear anymore. Mhm. Yes, pleasant. (13 seconds pause)
+
+S00: [00:25:07] Do you have any questions? Ehm, no, I mean, as I said, such a half hour is thought. And we are already at 25 minutes. Yes, okay. So if you say that you are actually talking about this now...
+
+S01: [00:25:17] I don't have that much for that, yes. So of course you can compare the shapes over time, whether something is changing in particular. Mhm. But not so good now.
+
+S00: [00:25:34] And so little that everyone has mobile on the Ziemann. Yes, everyone has mobile on the Ziemann. Yes, everyone has mobile on the Ziemann.

@@ -1,0 +1,39 @@
+\begin{table*}[!ht]
+    \centering
+    \footnotesize
+    \begin{tabular}{@{}lllllrl@{}}
+        \toprule
+        Task & \cond{C1} & \cond{C2} & Difference [CI] & Test statistic ($p$) & $p$ & Outcome \\
+        \midrule
+        \multicolumn{7}{@{}l}{\textbf{Accuracy} (\%) \quad \hyp{$H_1$}, TOST~\cite{Lakens2018} $\pm5$} \\
+        \addlinespace[2pt]
+        \quad \task{T1} & 73.1 (39.1) & 69.2 (39.0) & $-3.8$ [$-16.5$, $8.9$] & $t^{-} = 0.15$ (.440), $t^{+} = -1.16$ (.125) & .577 & inconclusive \\
+        \quad \task{T2} & 64.7 (40.9) & 65.4 (38.5) & $+0.6$ [$-12.3$, $13.6$] & $t^{-} = 0.72$ (.235), $t^{+} = -0.56$ (.288) & .577 & inconclusive \\
+        \quad \task{T3} & 84.9 (20.5) & 83.7 (23.2) & $-1.2$ [$-8.4$, $5.9$] & $t^{-} = 0.88$ (.191), $t^{+} = -1.45$ (.075) & .573 & inconclusive \\
+        \quad Overall$^{\ast}$ & 74.3 (25.7) & 72.8 (22.9) & $-1.5$ [$-9.4$, $6.5$] & $t^{-} = 0.74$ (.231), $t^{+} = -1.36$ (.089) & .231 & inconclusive \\
+        \midrule
+        \multicolumn{7}{@{}l}{\textbf{Workload} (RTLX) \quad \hyp{$H_2$}, TOST~\cite{Lakens2018} $\pm10$} \\
+        \addlinespace[2pt]
+        \quad \task{T1} & 50.7 (26.9) & 50.0 (23.2) & $-0.7$ [$-8.9$, $7.5$] & $t^{-} = 1.88$ (.031), $t^{+} = -2.18$ (.016) & .062 & inconclusive \\
+        \quad \task{T2} & 59.6 (24.4) & 53.0 (23.5) & $-6.5$ [$-14.3$, $1.3$] & $t^{-} = 0.74$ (.231), $t^{+} = -3.52$ ($<$.001) & .231 & inconclusive \\
+        \quad \task{T3} & 56.9 (23.3) & 57.0 (18.0) & $+0.1$ [$-6.7$, $6.9$] & $t^{-} = 2.47$ (.008), $t^{+} = -2.42$ (.009) & \textbf{.026} & equivalent \\
+        \quad Overall$^{\ast}$ & 55.7 (23.4) & 53.3 (19.0) & $-2.4$ [$-9.3$, $4.6$] & $t^{-} = 1.82$ (.036), $t^{+} = -2.96$ (.002) & \textbf{.036} & equivalent \\
+        \midrule
+        \multicolumn{7}{@{}l}{\textbf{Response time} (s) \quad \hyp{$H_3$}, MWU~\cite{mannwhitney1947}} \\
+        \addlinespace[2pt]
+        \quad \task{T1} & 32.9 [23.7, 48.7] & 29.6 [20.0, 47.4] & $-2.1$ [$-8.6$, $4.5$] & $U = 1259.5$ (.550) & 1.000 & no difference \\
+        \quad \task{T2}$^{\ast}$ & 59.8 [41.9, 83.9] & 44.6 [28.8, 72.0] & $-12.7$ [$-23.7$, $-1.2$] & $U = 1015$ (.014) & \textbf{.014} & folded faster \\
+        \quad \task{T3} & 39.5 [29.2, 52.9] & 46.0 [36.3, 63.7] & $+7.3$ [$-2.4$, $15.3$] & $U = 1572$ (.154) & .461 & no difference \\
+        \quad Overall & 45.8 [36.1, 63.1] & 44.7 [35.8, 64.0] & $-1.2$ [$-9.8$, $6.4$] & $U = 1299$ (.733) & 1.000 & no difference \\
+        \bottomrule
+    \end{tabular}
+    \caption{Results per measure and task. Accuracy and RTLX: mean ($\sigma$) per condition and difference
+    of means [90\% CI]; response time: median [25th, 75th percentile] and Hodges-Lehmann
+    difference~\cite{hodges1963} [95\% CI]. Differences are \cond{C2} $-$ \cond{C1}. TOST: two one-sided
+    Welch $t$-tests~\cite{welch1947} with the given margin; $t^{-}$ and $t^{+}$ test \hyp{$H_{0,i}^{-}$} and
+    \hyp{$H_{0,i}^{+}$} ($df$ 96--102). MWU: Mann-Whitney $U$. Test statistic ($p$): uncorrected $p$ of each
+    individual test. $p$ column: $p$ of the hypothesis test (for TOST, the larger of the two one-sided $p$).
+    $^{\ast}$Primary test (uncorrected $p$; one-sided for \hyp{$H_3$}); all other rows are exploratory
+    (Holm-corrected~\cite{holm1979}). Bold: $p < .05$, i.e., \hyp{$H_0$} rejected.}
+    \label{tab:results-detail}
+\end{table*}
