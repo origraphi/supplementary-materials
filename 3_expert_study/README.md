@@ -11,10 +11,10 @@ The sessions were held in German.
 |--------------------------------------------|-------------------------------------------------|
 | `interviews/original_de/`                  | Transcripts in the original German (7 sessions) |
 | `interviews/translated_en/`                | English machine translations of the transcripts |
-| `coding/anonymous_raccoon_<n>.<date>.xlsx` | Notes per session (one file per transcript)     |
+| `coding/P_<n>.<date>.xlsx` | Notes per session (one file per transcript)     |
 | `coding/qualitative.xlsx`                  | Thematic coding of quotes across sessions       |
 
-Files are named `anonymous_raccoon_<n>.<yyyymmdd>`: a pseudonym for the expert and the date of the
+Files are named `P_<n>.<yyyymmdd>`: a pseudonym for the expert and the date of the
 session. A transcript, its translation and its notes share the same name; translations end in `_en`.
 
 ## Transcription
@@ -50,7 +50,7 @@ were checked against it.
 
 ## Coding
 
-**Notes per session** (`coding/anonymous_raccoon_<n>.<date>.xlsx`): one row per observation, 157 in total.
+**Notes per session** (`coding/P_<n>.<date>.xlsx`): one row per observation, 157 in total.
 
 | Column      | Contents                                                      |
 |-------------|---------------------------------------------------------------|
