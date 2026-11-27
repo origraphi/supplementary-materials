@@ -9,6 +9,7 @@ from collections import Counter
 from collections.abc import Iterable
 from dataclasses import dataclass
 from pathlib import Path
+from statistics import mean, pstdev
 from typing import Any
 
 
@@ -27,13 +28,14 @@ class GraphStats:
     edge_count: int
     uncollapsed_lanes: int
     partially_collapsed_lanes: int
-    layered_edges: int
     average_degree: float = 0.0
     maximum_degree: int = 0
 
     @property
-    def lane_savings(self) -> int:
-        return self.uncollapsed_lanes - self.partially_collapsed_lanes
+    def compression_ratio(self) -> float | None:
+        if self.partially_collapsed_lanes == 0:
+            return None
+        return self.uncollapsed_lanes / self.partially_collapsed_lanes
 
 
 def _read_graph(path: Path) -> tuple[list[str], list[Edge]]:
@@ -119,7 +121,6 @@ def calculate_graph_stats(path: Path) -> GraphStats:
         edge_count=len(edges),
         uncollapsed_lanes=len(ordered_edges),
         partially_collapsed_lanes=partially_collapsed_lanes,
-        layered_edges=len(ordered_edges) - partially_collapsed_lanes,
         average_degree=(2 * len(edges) / len(nodes)) if nodes else 0.0,
         maximum_degree=max((incidence[node] for node in nodes), default=0),
     )
@@ -137,34 +138,59 @@ def _print_stats(stats: Iterable[GraphStats]) -> None:
     rows = list(stats)
     print(
         "graph\tnodes\tedges\tuncollapsed lanes\tpartially collapsed lanes\t"
-        "layered edges\tlane savings\taverage degree\tmaximum degree"
+        "compression ratio\taverage degree\tmaximum degree"
     )
     for row in rows:
+        ratio = (
+            f"{row.compression_ratio:.2f}"
+            if row.compression_ratio is not None
+            else "n/a"
+        )
         print(
             f"{row.name}\t{row.node_count}\t{row.edge_count}\t"
             f"{row.uncollapsed_lanes}\t{row.partially_collapsed_lanes}\t"
-            f"{row.layered_edges}\t{row.lane_savings}\t"
+            f"{ratio}\t"
             f"{row.average_degree:.2f}\t{row.maximum_degree}"
         )
     total_edges = sum(row.edge_count for row in rows)
     total_nodes = sum(row.node_count for row in rows)
     total_partial = sum(row.partially_collapsed_lanes for row in rows)
-    total_layered = sum(row.layered_edges for row in rows)
     total_maximum_degree = max((row.maximum_degree for row in rows), default=0)
+    total_ratio = (
+        f"{total_edges / total_partial:.2f}" if total_partial else "n/a"
+    )
     print(
         f"TOTAL ({len(rows)} graphs)\t-\t{total_edges}\t{total_edges}\t"
-        f"{total_partial}\t{total_layered}\t{total_edges - total_partial}\t"
+        f"{total_partial}\t{total_ratio}\t"
         f"{(2 * total_edges / total_nodes) if total_nodes else 0.0:.2f}\t"
         f"{total_maximum_degree}"
     )
+    ratios = [
+        row.compression_ratio
+        for row in rows
+        if row.compression_ratio is not None
+    ]
+    average_ratio = f"{mean(ratios):.2f}" if ratios else "n/a"
     print(
         f"AVERAGE\t-\t{total_edges / len(rows):.2f}\t"
         f"{total_edges / len(rows):.2f}\t{total_partial / len(rows):.2f}\t"
-        f"{total_layered / len(rows):.2f}\t"
-        f"{(total_edges - total_partial) / len(rows):.2f}\t"
+        f"{average_ratio}\t"
         f"{sum(row.average_degree for row in rows) / len(rows):.2f}\t"
         f"{sum(row.maximum_degree for row in rows) / len(rows):.2f}"
     )
+    print("\nCOMPRESSION RATIO SUMMARY")
+    print(
+        "graphs\tgraphs with ratio\tmax compression\tlowest compression\t"
+        "average compression\t"
+        "standard deviation (population)"
+    )
+    summary = (
+        f"{len(rows)}\t{len(ratios)}\t{max(ratios):.2f}\t{min(ratios):.2f}\t"
+        f"{mean(ratios):.2f}\t{pstdev(ratios):.2f}"
+        if ratios
+        else f"{len(rows)}\t0\tn/a\tn/a\tn/a\tn/a"
+    )
+    print(summary)
 
 
 def main() -> None:
