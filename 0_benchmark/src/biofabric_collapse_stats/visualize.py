@@ -344,11 +344,7 @@ def main() -> None:
         default=[
             Path("rome/data"),
             Path("randDAG/data"),
-            # Path("KEGG_pathways/data"),
             Path("north/data"),
-            # Path("knownCR/data"),
-            # Path("evolution/data"),
-            # Path("complete_graphs/data")
         ],
         help="directories containing node-link JSON files",
     )
