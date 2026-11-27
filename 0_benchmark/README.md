@@ -6,7 +6,7 @@ BioFabric, where every edge gets its own lane.
 1. Nodes are ordered by incidence.
 2. Edges are ordered "degreecending": by their topmost node in the incidence-ordered node list, then by edge length.
 3. The unfolded layout assigns one horizontal lane to every edge.
-4. The folded layout reuses a lane for consecutive edges with the same topmost node. `layered edges` is the number of edges placed into an already-used lane.
+4. The folded layout reuses a lane for consecutive edges with the same topmost node. `partially collapsed lanes` is the number of edges placed into an already-used lane.
 
 Every graph is assumed to have a single depth layer. The tool predates the name Origraphi:
 its output calls the unfolded layout "uncollapsed" and the folded layout "partially collapsed".
@@ -25,11 +25,11 @@ Requires [uv](https://docs.astral.sh/uv/); it creates the environment on first r
 
 ```bash
 uv run bfstats path/to/data
-uv run bfplot rome/data randDAG/data KEGG_pathways/data -o collapse_visualizations.svg
+uv run bfplot rome/data randDAG/data north/data -o collapse_visualizations.svg
 ```
 
 - `bfstats` takes a folder of node-link `.json` graphs and prints, per graph and in total or on average: the edge count (unfolded lanes), the folded lane count, the layered edges and the lane savings. Without an argument it reads `rome/data`.
-- `bfplot` plots the statistics for one or more folders (by default `rome/data`, `randDAG/data` and `KEGG_pathways/data`). The output can be PNG, SVG, PDF or any other format Matplotlib supports.
+- `bfplot` plots the statistics for one or more folders (by default `rome/data`, `randDAG/data` and `north/data`). The output can be PNG, SVG, PDF or any other format Matplotlib supports.
 
 ## Datasets
 
